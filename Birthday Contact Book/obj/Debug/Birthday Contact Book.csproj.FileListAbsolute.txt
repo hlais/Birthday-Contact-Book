@@ -1,0 +1,14 @@
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\bin\Debug\Birthday Contact Book.exe.config
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\bin\Debug\Birthday Contact Book.exe
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\bin\Debug\Birthday Contact Book.pdb
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday_Contact_Book.Form1.resources
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday_Contact_Book.Properties.Resources.resources
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.csproj.GenerateResource.Cache
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.exe
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.pdb
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\bin\Debug\Birthday Contact Book.exe.manifest
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\bin\Debug\Birthday Contact Book.application
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.exe.manifest
+C:\Users\Isolated Gamerz\source\repos\Birthday Contact Book\Birthday Contact Book\obj\Debug\Birthday Contact Book.application

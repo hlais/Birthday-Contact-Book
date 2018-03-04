@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <people>
+    <Person>
+      <_name>Anja Wanger</_name>
+      <_email>mrscutie@gmail.com</_email>
+      <_address>King Cross </_address>
+      <_birthday>1983-09-14T00:00:00</_birthday>
+      <_notes>my partner in crime</_notes>
+    </Person>
+    <Person>
+      <_name>Halim Lais</_name>
+      <_email>isolatedgamerz@hotmail.co,uk</_email>
+      <_address>Woodford, IG8 7AY</_address>
+      <_birthday>1985-05-28T00:00:00</_birthday>
+      <_notes>This is me! ;)</_notes>
+    </Person>
+    <Person>
+      <_name>Micheal Jackson</_name>
+      <_email>michealjackson@gmail.com</_email>
+      <_address>LA United States</_address>
+      <_birthday>1967-03-01T00:00:00</_birthday>
+      <_notes>he is dead now :'(</_notes>
+    </Person>
+    <Person>
+      <_name>John Doe</_name>
+      <_email>generic@gmail.com</_email>
+      <_address>40 Gravesend, Kent</_address>
+      <_birthday>1991-03-04T00:00:00</_birthday>
+      <_notes>he likes football alot. </_notes>
+    </Person>
+  </people>
+</SaveFile>
